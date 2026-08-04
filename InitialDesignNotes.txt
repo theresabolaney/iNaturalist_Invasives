@@ -1,0 +1,11 @@
+Initial Design Notes
+
+- What problem are we trying to solve?
+- Why are we trying to solve this problem?
+- Who are the users for this solution?
+- At a high level, what does a solution look like?
+- List research into creating the solution, including:
+-- Possible benefits of any implementation
+-- Technical constraints or drawbacks to a given implementation
+-- Estimation of time and knowledge required for implementation
+- Next steps once scope and initial design are investigated/decided
