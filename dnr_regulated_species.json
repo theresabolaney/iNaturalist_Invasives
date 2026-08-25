@@ -1,1563 +1,1563 @@
 [
   {
     "category": "Plant",
-    "commonName": "Amur cork tree",
+    "commonNames": ["Amur cork tree"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/AmurCorkTree.html",
-    "scientificName": "Phellodendron amurense",
+    "scientificNames": ["Phellodendron amurense"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Amur honeysuckle",
+    "commonNames": ["Amur honeysuckle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/AmurHoneysuckle.html",
-    "scientificName": "Lonicera maackii",
+    "scientificNames": ["Lonicera maackii"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Amur maple",
+    "commonNames": ["Amur maple"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/AmurMaple.html",
-    "scientificName": "Acer tataricum subsp. ginnala",
+    "scientificNames": ["Acer tataricum subsp. ginnala"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Anchored water hyacinth",
+    "commonNames": ["Anchored water hyacinth"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WaterHyacinth.html",
-    "scientificName": "Eichhornia azurea",
+    "scientificNames": ["Eichhornia azurea"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Aquatic forget-me-not",
+    "commonNames": ["Aquatic forget-me-not"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/AquaticForgetMeNot.html",
-    "scientificName": "Myosotis scorpioides",
+    "scientificNames": ["Myosotis scorpioides"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Asian loeseneri bittersweet",
+    "commonNames": ["Asian loeseneri bittersweet"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/AsianBittersweet.html",
-    "scientificName": "Celastrus loeseneri",
+    "scientificNames": ["Celastrus loeseneri"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Asian marshweed",
+    "commonNames": ["Asian marshweed"],
     "uri": "https://dnr.wi.gov/topic/invasives/fact/AsianMarshweed.html",
-    "scientificName": "Limnophila sessiliflora",
+    "scientificNames": ["Limnophila sessiliflora"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Australian swamp crop or New Zealand pygmyweed",
+    "commonNames": ["Australian swamp crop or New Zealand pygmyweed"],
     "uri": "https://www.invasive-species.org/species/australian-swamp-stonecrop/",
-    "scientificName": "Crassula helmsii",
+    "scientificNames": ["Crassula helmsii"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Autumn olive",
+    "commonNames": ["Autumn olive"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/AutumnOlive.html",
-    "scientificName": "Elaeagnus umbellata",
+    "scientificNames": ["Elaeagnus umbellata"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Balfour's touch-me-not",
+    "commonNames": ["Balfour's touch-me-not"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BalfoursTouch-me-not.html",
-    "scientificName": "Impatiens balfourii",
+    "scientificNames": ["Impatiens balfourii"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Bell's or showy bush honeysuckle",
+    "commonNames": ["Bell's or showy bush honeysuckle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BellsHoneysuckle.html",
-    "scientificName": "Lonicera x bella",
+    "scientificNames": ["Lonicera x bella"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Bishop's goutweed",
+    "commonNames": ["Bishop's goutweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BishopsGoutweed.html",
-    "scientificName": "Aegopodium podagraria",
+    "scientificNames": ["Aegopodium podagraria"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Black (European) alder",
+    "commonNames": ["Black (European) alder"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BlackAlder.html",
-    "scientificName": "Alnus glutinosa",
+    "scientificNames": ["Alnus glutinosa"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Black knapweed",
+    "commonNames": ["Black knapweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BlackKnapweed.html",
-    "scientificName": "Centaurea nigra",
+    "scientificNames": ["Centaurea nigra"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Black locust",
+    "commonNames": ["Black locust"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BlackLocust.html",
-    "scientificName": "Robinia pseudoacacia",
+    "scientificNames": ["Robinia pseudoacacia"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Black or Louise's swallow−wort",
+    "commonNames": ["Black or Louise's swallow−wort"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BlackSwallowwort.html",
-    "scientificName": "Vincetoxicum nigrum or Cynanchum louiseae",
+    "scientificNames": ["Vincetoxicum nigrum or Cynanchum louiseae"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Bohemian knotweed",
+    "commonNames": ["Bohemian knotweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BohemianKnotweed.html",
-    "scientificName": "Fallopia x bohemicum or F. x bohemica or Polygonum × bohemicum",
+    "scientificNames": ["Fallopia x bohemicum or F. x bohemica or Polygonum × bohemicum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Brittle naiad, or lesser, bushy, slender, spiny or minor naiad or water nymph",
+    "commonNames": ["Brittle naiad, or lesser, bushy, slender, spiny or minor naiad or water nymph"],
     "uri": "https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1118",
-    "scientificName": "Najas minor",
+    "scientificNames": ["Najas minor"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Brown knapweed",
+    "commonNames": ["Brown knapweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BrownKnapweed.html",
-    "scientificName": "Centaurea jacea",
+    "scientificNames": ["Centaurea jacea"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Burning bush",
+    "commonNames": ["Burning bush"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Euonymus.html",
-    "scientificName": "Euonymus alatus",
+    "scientificNames": ["Euonymus alatus"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Butterfly dock",
+    "commonNames": ["Butterfly dock"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/ButterflyDock.html",
-    "scientificName": "Petasites hybridus",
+    "scientificNames": ["Petasites hybridus"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Canada thistle",
+    "commonNames": ["Canada thistle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CanadaThistle.html",
-    "scientificName": "Cirsium arvense",
+    "scientificNames": ["Cirsium arvense"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Celandine",
+    "commonNames": ["Celandine"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Celandine.html",
-    "scientificName": "Chelidonium majus",
+    "scientificNames": ["Chelidonium majus"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Chinese wisteria",
+    "commonNames": ["Chinese wisteria"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Wisteria.html",
-    "scientificName": "Wisteria sinensis",
+    "scientificNames": ["Wisteria sinensis"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Chinese yam",
+    "commonNames": ["Chinese yam"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/ChineseYam.html",
-    "scientificName": "Dioscorea batatas or D. polystacha",
+    "scientificNames": ["Dioscorea batatas or D. polystacha"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Colt's foot",
+    "commonNames": ["Colt's foot"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/ColtsFoot.html",
-    "scientificName": "Tussilago farfara",
+    "scientificNames": ["Tussilago farfara"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Common barberry",
+    "commonNames": ["Common barberry"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CommonBarberry.html",
-    "scientificName": "Berberis vulgaris",
+    "scientificNames": ["Berberis vulgaris"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Common buckthorn",
+    "commonNames": ["Common buckthorn"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CommonBuckthorn.html",
-    "scientificName": "Rhamnus cathartica",
+    "scientificNames": ["Rhamnus cathartica"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Common teasel",
+    "commonNames": ["Common teasel"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CommonTeasel.html",
-    "scientificName": "Dipsacus sylvestris or D. fullonum",
+    "scientificNames": ["Dipsacus sylvestris or D. fullonum"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Creeping bellflower",
+    "commonNames": ["Creeping bellflower"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CreepingBellflower.html",
-    "scientificName": "Campanula rapunculoides",
+    "scientificNames": ["Campanula rapunculoides"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Crown vetch",
+    "commonNames": ["Crown vetch"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CrownVetch.html",
-    "scientificName": "Coronilla varia",
+    "scientificNames": ["Coronilla varia"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Curly−leaf pondweed",
+    "commonNames": ["Curly−leaf pondweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CurlyLeafPondweed.html",
-    "scientificName": "Potamogeton crispus",
+    "scientificNames": ["Potamogeton crispus"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Cut−leaved teasel",
+    "commonNames": ["Cut−leaved teasel"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CutLeavedTeasel.html",
-    "scientificName": "Dipsacus laciniatus",
+    "scientificNames": ["Dipsacus laciniatus"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Cypress spurge",
+    "commonNames": ["Cypress spurge"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CypressSpurge.html",
-    "scientificName": "Euphorbia cyparissias",
+    "scientificNames": ["Euphorbia cyparissias"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Dalmatian toadflax",
+    "commonNames": ["Dalmatian toadflax"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/DalmationToadflax.html",
-    "scientificName": "Linaria dalmatica",
+    "scientificNames": ["Linaria dalmatica"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Dame's rocket",
+    "commonNames": ["Dame's rocket"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/DamesRocket.html",
-    "scientificName": "Hesperis matronalis",
+    "scientificNames": ["Hesperis matronalis"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Diffuse knapweed",
+    "commonNames": ["Diffuse knapweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/DiffuseKnapweed.html",
-    "scientificName": "Centaurea diffusa",
+    "scientificNames": ["Centaurea diffusa"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Ducklettuce",
+    "commonNames": ["Ducklettuce"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Ducklettuce.html",
-    "scientificName": "Ottelia alismoides",
+    "scientificNames": ["Ottelia alismoides"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Egeria",
+    "commonNames": ["Egeria"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/Egeria",
-    "scientificName": "Egeria densa",
+    "scientificNames": ["Egeria densa"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Eurasian watermilfoil",
+    "commonNames": ["Eurasian watermilfoil"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/EurasianWatermilfoil.html",
-    "scientificName": "Myriophyllum spicatum",
+    "scientificNames": ["Myriophyllum spicatum"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "European frogbit",
+    "commonNames": ["European frogbit"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/EuropeanFrogbit.html",
-    "scientificName": "Hydrocharis morsus−ranae",
+    "scientificNames": ["Hydrocharis morsus−ranae"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "European marsh thistle",
+    "commonNames": ["European marsh thistle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/EuropeanMarshThistle.html",
-    "scientificName": "Cirsium palustre",
+    "scientificNames": ["Cirsium palustre"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Fanwort, Carolina Fanwort",
+    "commonNames": ["Fanwort, Carolina Fanwort"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Fanwort.html",
-    "scientificName": "Cabomba caroliniana",
+    "scientificNames": ["Cabomba caroliniana"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Field scabiosa",
+    "commonNames": ["Field scabiosa"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/FieldScabiosa.html",
-    "scientificName": "Knautia arvensis",
+    "scientificNames": ["Knautia arvensis"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Fiveleaf akebia or Chocolate vine",
+    "commonNames": ["Fiveleaf akebia or Chocolate vine"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/FiveleafAkebia.html",
-    "scientificName": "Akebia quinata",
+    "scientificNames": ["Akebia quinata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Floating marsh pennywort",
+    "commonNames": ["Floating marsh pennywort"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/FloatingMarshPennywort.html",
-    "scientificName": "Hydrocotyle ranunculoides",
+    "scientificNames": ["Hydrocotyle ranunculoides"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Flowering rush",
+    "commonNames": ["Flowering rush"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/FloweringRush.html",
-    "scientificName": "Butomus umbellatus",
+    "scientificNames": ["Butomus umbellatus"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Garden heliotrope or Valerian",
+    "commonNames": ["Garden heliotrope or Valerian"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Valerian.html",
-    "scientificName": "Valeriana officinalis",
+    "scientificNames": ["Valeriana officinalis"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Garden yellow loosestrife",
+    "commonNames": ["Garden yellow loosestrife"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/GardenYellowLoosestrife",
-    "scientificName": "Lysimachia vulgaris",
+    "scientificNames": ["Lysimachia vulgaris"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Garlic mustard",
+    "commonNames": ["Garlic mustard"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/GarlicMustard",
-    "scientificName": "Alliaria petiolata",
+    "scientificNames": ["Alliaria petiolata"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Giant hogweed",
+    "commonNames": ["Giant hogweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/GiantHogweed.html",
-    "scientificName": "Heracleum mantegazzianum",
+    "scientificNames": ["Heracleum mantegazzianum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Giant knotweed",
+    "commonNames": ["Giant knotweed"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/GiantKnotweed",
-    "scientificName": "Fallopia sachalinensis or Polygonum sachalinense",
+    "scientificNames": ["Fallopia sachalinensis or Polygonum sachalinense"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Giant reed",
+    "commonNames": ["Giant reed"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/GiantReed",
-    "scientificName": "Arundo donax",
+    "scientificNames": ["Arundo donax"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Giant salvinia",
+    "commonNames": ["Giant salvinia"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/SalviniaSpecies",
-    "scientificName": "Salvinia herzogii",
+    "scientificNames": ["Salvinia herzogii"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Giant salvinia",
+    "commonNames": ["Giant salvinia"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/SalviniaSpecies",
-    "scientificName": "Salvinia molesta",
+    "scientificNames": ["Salvinia molesta"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Glossy buckthorn",
+    "commonNames": ["Glossy buckthorn"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/GlossyBuckthorn.html",
-    "scientificName": "Rhamnus frangula or Frangula alnus",
+    "scientificNames": ["Rhamnus frangula or Frangula alnus"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Graceful cattail",
+    "commonNames": ["Graceful cattail"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/GracefulCattail",
-    "scientificName": "Typha laxmannii",
+    "scientificNames": ["Typha laxmannii"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Grecian foxglove",
+    "commonNames": ["Grecian foxglove"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/GrecianFoxglove.html",
-    "scientificName": "Digitalis lanata",
+    "scientificNames": ["Digitalis lanata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Hairy willow herb",
+    "commonNames": ["Hairy willow herb"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/HairyWillowHerb.html",
-    "scientificName": "Epilobium hirsutum",
+    "scientificNames": ["Epilobium hirsutum"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Hawaii arrowhead",
+    "commonNames": ["Hawaii arrowhead"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/HawaiiArrowhead.html",
-    "scientificName": "Sagittaria sagittifolia",
+    "scientificNames": ["Sagittaria sagittifolia"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Helleborine orchid",
+    "commonNames": ["Helleborine orchid"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/HelleborineOrchid.html",
-    "scientificName": "Epipactis helleborine",
+    "scientificNames": ["Epipactis helleborine"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Hemp nettle, brittlestem hemp nettle",
+    "commonNames": ["Hemp nettle, brittlestem hemp nettle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/HempNettle.html",
-    "scientificName": "Galeopsis tetrahit",
+    "scientificNames": ["Galeopsis tetrahit"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Hill mustard",
+    "commonNames": ["Hill mustard"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/HillMustard",
-    "scientificName": "Bunias orientalis",
+    "scientificNames": ["Bunias orientalis"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Himalayan blackberry",
+    "commonNames": ["Himalayan blackberry"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/HimalayanBlackberry.html",
-    "scientificName": "Rubus armeniacus",
+    "scientificNames": ["Rubus armeniacus"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Hound's tongue",
+    "commonNames": ["Hound's tongue"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/HoundsTongue.html",
-    "scientificName": "Cynoglossum officinale",
+    "scientificNames": ["Cynoglossum officinale"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Hybrid cattail",
+    "commonNames": ["Hybrid cattail"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/CattailHybrid.html",
-    "scientificName": "Typha x glauca",
+    "scientificNames": ["Typha x glauca"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Hydrilla",
+    "commonNames": ["Hydrilla"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Hydrilla.html",
-    "scientificName": "Hydrilla verticillata",
+    "scientificNames": ["Hydrilla verticillata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Indian Swampweed",
+    "commonNames": ["Indian Swampweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/IndianSwampweed.html",
-    "scientificName": "Hygrophila polysperma",
+    "scientificNames": ["Hygrophila polysperma"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Indian yam",
+    "commonNames": ["Indian yam"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/ChineseYam.html",
-    "scientificName": "Dioscorea oppositifolia",
+    "scientificNames": ["Dioscorea oppositifolia"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Japanese barberry",
+    "commonNames": ["Japanese barberry"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/JapaneseBarberry.html",
-    "scientificName": "Berberis thunbergii",
+    "scientificNames": ["Berberis thunbergii"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Japanese chaff flower",
+    "commonNames": ["Japanese chaff flower"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/JapaneseChaffFlower.html",
-    "scientificName": "Achyranthes japonica",
+    "scientificNames": ["Achyranthes japonica"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Japanese hedge parsley or erect hedge parsley",
+    "commonNames": ["Japanese hedge parsley or erect hedge parsley"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/JapaneseHedgeparsley.html",
-    "scientificName": "Torilis japonica",
+    "scientificNames": ["Torilis japonica"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Japanese honeysuckle",
+    "commonNames": ["Japanese honeysuckle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/JapaneseHoneysuckle.html",
-    "scientificName": "Lonicera japonica",
+    "scientificNames": ["Lonicera japonica"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Japanese hops",
+    "commonNames": ["Japanese hops"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/JapaneseHops.html",
-    "scientificName": "Humulus japonicus",
+    "scientificNames": ["Humulus japonicus"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Japanese knotweed",
+    "commonNames": ["Japanese knotweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/JapaneseKnotweed.html",
-    "scientificName": "Fallopia japonica or Polygonum cuspidatum",
+    "scientificNames": ["Fallopia japonica or Polygonum cuspidatum"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Japanese stilt grass",
+    "commonNames": ["Japanese stilt grass"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/JapaneseStiltGrass.html",
-    "scientificName": "Microstegium vimineum",
+    "scientificNames": ["Microstegium vimineum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Japanese wisteria",
+    "commonNames": ["Japanese wisteria"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Wisteria.html",
-    "scientificName": "Wisteria floribunda",
+    "scientificNames": ["Wisteria floribunda"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Java waterdropwort or Vietnamese parsley",
+    "commonNames": ["Java waterdropwort or Vietnamese parsley"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/JavaWaterdropwort.html",
-    "scientificName": "Oenanthe javanica",
+    "scientificNames": ["Oenanthe javanica"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Johnsongrass",
+    "commonNames": ["Johnsongrass"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Johnsongrass.html",
-    "scientificName": "Sorghum halepense",
+    "scientificNames": ["Sorghum halepense"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Kudzu",
+    "commonNames": ["Kudzu"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Kudzu.html",
-    "scientificName": "Pueraria montana or P. lobata",
+    "scientificNames": ["Pueraria montana or P. lobata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Leafy spurge",
+    "commonNames": ["Leafy spurge"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/LeafySpurge.html",
-    "scientificName": "Euphorbia esula",
+    "scientificNames": ["Euphorbia esula"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Lesser celandine",
+    "commonNames": ["Lesser celandine"],
     "uri": "https://dnr.wi.gov/topic/invasives/fact/LesserCelandine.html",
-    "scientificName": "Ranunculus ficaria",
+    "scientificNames": ["Ranunculus ficaria"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Lyme grass or sand ryegrass",
+    "commonNames": ["Lyme grass or sand ryegrass"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/LymeGrass.html",
-    "scientificName": "Leymus arenarius or Elymus arenarius",
+    "scientificNames": ["Leymus arenarius or Elymus arenarius"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Medusahead",
+    "commonNames": ["Medusahead"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Medusahead.html",
-    "scientificName": "Taeniatherum caput-medusae",
+    "scientificNames": ["Taeniatherum caput-medusae"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Mile−a−minute vine",
+    "commonNames": ["Mile−a−minute vine"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/MileAMinuteVine",
-    "scientificName": "Polygonum perfoliatum or Persicaria perfoliata",
+    "scientificNames": ["Polygonum perfoliatum or Persicaria perfoliata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Moneywort",
+    "commonNames": ["Moneywort"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Moneywort.html",
-    "scientificName": "Lysimachia nummularia (or L. nummelaria)",
+    "scientificNames": ["Lysimachia nummularia (or L. nummelaria)"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Morrow's honeysuckle",
+    "commonNames": ["Morrow's honeysuckle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/MorrowsHoneysuckle.html",
-    "scientificName": "Lonicera morrowii",
+    "scientificNames": ["Lonicera morrowii"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Mosquito fern",
+    "commonNames": ["Mosquito fern"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/MosquitoFern.html",
-    "scientificName": "Azolla pinnata",
+    "scientificNames": ["Azolla pinnata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Mudmat",
+    "commonNames": ["Mudmat"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Mudmat.html",
-    "scientificName": "Glossostigma cleistanthum",
+    "scientificNames": ["Glossostigma cleistanthum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Multiflora rose",
+    "commonNames": ["Multiflora rose"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/MultifloraRose.html",
-    "scientificName": "Rosa multiflora",
+    "scientificNames": ["Rosa multiflora"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Musk thistle or Nodding thistle",
+    "commonNames": ["Musk thistle or Nodding thistle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/MuskThistle.html",
-    "scientificName": "Carduus nutans",
+    "scientificNames": ["Carduus nutans"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Narrow-leaf bittercress",
+    "commonNames": ["Narrow-leaf bittercress"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/NarrowLeafBittercress.html",
-    "scientificName": "Cardamine impatiens",
+    "scientificNames": ["Cardamine impatiens"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Narrow-leaf cattail",
+    "commonNames": ["Narrow-leaf cattail"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/fact/NarrowLeavedCattail",
-    "scientificName": "Typha angustifolia",
+    "scientificNames": ["Typha angustifolia"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Oriental bittersweet",
+    "commonNames": ["Oriental bittersweet"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/OrientalBittersweet.html",
-    "scientificName": "Celastrus orbiculatus",
+    "scientificNames": ["Celastrus orbiculatus"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Oxygen−weed, African elodea or African waterweed",
+    "commonNames": ["Oxygen−weed, African elodea or African waterweed"],
     "uri": "https://plant-directory.ifas.ufl.edu/plant-directory/lagarosiphon-major/",
-    "scientificName": "Lagarosiphon major",
+    "scientificNames": ["Lagarosiphon major"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Pale or European swallow−wort",
+    "commonNames": ["Pale or European swallow−wort"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/PaleSwallowwort.html",
-    "scientificName": "Vincetoxicum rossicum or Cynanchum rossicum",
+    "scientificNames": ["Vincetoxicum rossicum or Cynanchum rossicum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Parrot feather",
+    "commonNames": ["Parrot feather"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/ParrotFeather.html",
-    "scientificName": "Myriophyllum aquaticum",
+    "scientificNames": ["Myriophyllum aquaticum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Perennial or broadleaved pepperweed",
+    "commonNames": ["Perennial or broadleaved pepperweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/PerennialPepperweed.html",
-    "scientificName": "Lepidium latifolium",
+    "scientificNames": ["Lepidium latifolium"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Phragmites or Common reed non-native ecotype",
+    "commonNames": ["Phragmites or Common reed non-native ecotype"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Phragmites.html",
-    "scientificName": "Phragmites australis non-native ecotype",
+    "scientificNames": ["Phragmites australis non-native ecotype"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Plumeless thistle",
+    "commonNames": ["Plumeless thistle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/PlumelessThistle.html",
-    "scientificName": "Carduus acanthoides",
+    "scientificNames": ["Carduus acanthoides"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Poison hemlock",
+    "commonNames": ["Poison hemlock"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/PoisonHemlock.html",
-    "scientificName": "Conium maculatum",
+    "scientificNames": ["Conium maculatum"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Policeman's helmet",
+    "commonNames": ["Policeman's helmet"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/PolicemansHelmet.html",
-    "scientificName": "Impatiens glandulifera",
+    "scientificNames": ["Impatiens glandulifera"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Porcelain berry",
+    "commonNames": ["Porcelain berry"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/PorcelainBerry.html",
-    "scientificName": "Ampelopsis brevipedunculata",
+    "scientificNames": ["Ampelopsis brevipedunculata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Princess tree",
+    "commonNames": ["Princess tree"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/PrincessTree.html",
-    "scientificName": "Paulownia tomentosa",
+    "scientificNames": ["Paulownia tomentosa"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Purple loosestrife",
+    "commonNames": ["Purple loosestrife"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/PurpleLoosestrife.html",
-    "scientificName": "Lythrum salicaria",
+    "scientificNames": ["Lythrum salicaria"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Queen of the meadow",
+    "commonNames": ["Queen of the meadow"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/QueenoftheMeadow.html",
-    "scientificName": "Filipendula ulmaria",
+    "scientificNames": ["Filipendula ulmaria"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "ribbon grass or gardener's garters and other ornamental variegated varieties and cultivars.",
+    "commonNames": ["ribbon grass or gardener's garters and other ornamental variegated varieties and cultivars."],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/RibbonGrass.html",
-    "scientificName": "Phalaris arundinacea var. picta",
+    "scientificNames": ["Phalaris arundinacea var. picta"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Rose acacia or Bristly locust",
+    "commonNames": ["Rose acacia or Bristly locust"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BristlyLocust.html",
-    "scientificName": "Robinia hispida",
+    "scientificNames": ["Robinia hispida"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Russian knapweed",
+    "commonNames": ["Russian knapweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/RussianKnapweed.html",
-    "scientificName": "Centaurea repens",
+    "scientificNames": ["Centaurea repens"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Russian olive",
+    "commonNames": ["Russian olive"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/RussianOlive.html",
-    "scientificName": "Elaeagnus angustifolia",
+    "scientificNames": ["Elaeagnus angustifolia"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Sacred Lotus",
+    "commonNames": ["Sacred Lotus"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SacredLotus.html",
-    "scientificName": "Nelumbo nucifera",
+    "scientificNames": ["Nelumbo nucifera"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Sawtooth oak",
+    "commonNames": ["Sawtooth oak"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SawtoothOak.html",
-    "scientificName": "Quercus acutissima",
+    "scientificNames": ["Quercus acutissima"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Scarlet pimpernel or Burnet saxifrage",
+    "commonNames": ["Scarlet pimpernel or Burnet saxifrage"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Pimpinella.html",
-    "scientificName": "Pimpinella saxifraga",
+    "scientificNames": ["Pimpinella saxifraga"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Scotch broom",
+    "commonNames": ["Scotch broom"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/ScotchBroom.html",
-    "scientificName": "Cytisus scoparius",
+    "scientificNames": ["Cytisus scoparius"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Seaside goldenrod",
+    "commonNames": ["Seaside goldenrod"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SeasideGoldenrod.html",
-    "scientificName": "Solidago sempervirens",
+    "scientificNames": ["Solidago sempervirens"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Sericea or Chinese lespedeza",
+    "commonNames": ["Sericea or Chinese lespedeza"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SericeaLespedeza.html",
-    "scientificName": "Lespedeza cuneata or L. sericea",
+    "scientificNames": ["Lespedeza cuneata or L. sericea"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Siberian elm",
+    "commonNames": ["Siberian elm"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SiberianElm.html",
-    "scientificName": "Ulmus pumila",
+    "scientificNames": ["Ulmus pumila"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Siberian peashrub",
+    "commonNames": ["Siberian peashrub"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SiberianPeashrub.html",
-    "scientificName": "Caragana arborescens",
+    "scientificNames": ["Caragana arborescens"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Southern cattail",
+    "commonNames": ["Southern cattail"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SouthernCattail.html",
-    "scientificName": "Typha domingensis",
+    "scientificNames": ["Typha domingensis"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Spiny naiad",
+    "commonNames": ["Spiny naiad"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SpinyNaiad.html",
-    "scientificName": "Najas marina",
+    "scientificNames": ["Najas marina"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Spotted knapweed",
+    "commonNames": ["Spotted knapweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SpottedKnapweed.html",
-    "scientificName": "Centaurea biebersteinii, C. maculosa or C. stoebe",
+    "scientificNames": ["Centaurea biebersteinii, C. maculosa or C. stoebe"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Spreading hedge parsley",
+    "commonNames": ["Spreading hedge parsley"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SpreadingHedgeparsley.html",
-    "scientificName": "Torilis arvensis",
+    "scientificNames": ["Torilis arvensis"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Tall or reed mannagrass",
+    "commonNames": ["Tall or reed mannagrass"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/TallMannaGrass.html",
-    "scientificName": "Glyceria maxima",
+    "scientificNames": ["Glyceria maxima"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Tansy",
+    "commonNames": ["Tansy"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Tansy.html",
-    "scientificName": "Tanacetum vulgare",
+    "scientificNames": ["Tanacetum vulgare"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Tartarian honeysuckle",
+    "commonNames": ["Tartarian honeysuckle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/TatarianHoneysuckle.html",
-    "scientificName": "Lonicera tatarica",
+    "scientificNames": ["Lonicera tatarica"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Tree of heaven",
+    "commonNames": ["Tree of heaven"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/TreeOfHeaven.html",
-    "scientificName": "Ailanthus altissima",
+    "scientificNames": ["Ailanthus altissima"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Tyrol knapweed",
+    "commonNames": ["Tyrol knapweed"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/TyrolKnapweed.html",
-    "scientificName": "Centaurea nigrescens",
+    "scientificNames": ["Centaurea nigrescens"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Wanded loosestrife",
+    "commonNames": ["Wanded loosestrife"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WandedLoosestrife.html",
-    "scientificName": "Lythrum virgatum",
+    "scientificNames": ["Lythrum virgatum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Water chestnut",
+    "commonNames": ["Water chestnut"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WaterChestnut.html",
-    "scientificName": "Trapa natans",
+    "scientificNames": ["Trapa natans"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Water hyacinth, floating",
+    "commonNames": ["Water hyacinth, floating"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WaterHyacinth.html",
-    "scientificName": "Eichhornia crassipes",
+    "scientificNames": ["Eichhornia crassipes"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Water lettuce",
+    "commonNames": ["Water lettuce"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WaterLettuce.html",
-    "scientificName": "Pistia stratiotes",
+    "scientificNames": ["Pistia stratiotes"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Water Soldiers",
+    "commonNames": ["Water Soldiers"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WaterSoldiers.html",
-    "scientificName": "Stratiotes aloides",
+    "scientificNames": ["Stratiotes aloides"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Water spinach, swamp morning-glory",
+    "commonNames": ["Water spinach, swamp morning-glory"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WaterSpinach.html",
-    "scientificName": "Ipomoea aquatica",
+    "scientificNames": ["Ipomoea aquatica"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Wavy leaf basket grass",
+    "commonNames": ["Wavy leaf basket grass"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WavyLeafBasketGrass.html",
-    "scientificName": "Oplismenus hirtellus ssp. undulatifolius",
+    "scientificNames": ["Oplismenus hirtellus ssp. undulatifolius"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "White bedstraw",
+    "commonNames": ["White bedstraw"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WhiteBedstraw.html",
-    "scientificName": "Galium mollugo",
+    "scientificNames": ["Galium mollugo"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "White mulberry",
+    "commonNames": ["White mulberry"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WhiteMulberry.html",
-    "scientificName": "Morus alba",
+    "scientificNames": ["Morus alba"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "White poplar",
+    "commonNames": ["White poplar"],
     "uri": "https://www.fs.usda.gov/database/feis/plants/tree/popspp/all.html",
-    "scientificName": "Populus alba",
+    "scientificNames": ["Populus alba"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Wild chervil",
+    "commonNames": ["Wild chervil"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WildChervil.html",
-    "scientificName": "Anthriscus sylvestris",
+    "scientificNames": ["Anthriscus sylvestris"],
     "regulated": "Prohibited/Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Wild parsnip",
+    "commonNames": ["Wild parsnip"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WildParsnip.html",
-    "scientificName": "Pastinaca sativa",
+    "scientificNames": ["Pastinaca sativa"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Wineberry or wine raspberry",
+    "commonNames": ["Wineberry or wine raspberry"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Wineberry.html",
-    "scientificName": "Rubus phoenicolasius",
+    "scientificNames": ["Rubus phoenicolasius"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Woodland forget-me-not",
+    "commonNames": ["Woodland forget-me-not"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/WoodlandForgetMeNot.html",
-    "scientificName": "Myosotis sylvatica (or M. sylvaticum)",
+    "scientificNames": ["Myosotis sylvatica (or M. sylvaticum)"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Wormwood",
+    "commonNames": ["Wormwood"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Wormwood.html",
-    "scientificName": "Artemisia absinthium",
+    "scientificNames": ["Artemisia absinthium"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Yellow floating heart",
+    "commonNames": ["Yellow floating heart"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/YellowFloatingHeart.html",
-    "scientificName": "Nymphoides peltata",
+    "scientificNames": ["Nymphoides peltata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Plant",
-    "commonName": "Yellow iris",
+    "commonNames": ["Yellow iris"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/YellowFlagIris.html",
-    "scientificName": "Iris pseudacorus",
+    "scientificNames": ["Iris pseudacorus"],
     "regulated": "Restricted"
   },
   {
     "category": "Plant",
-    "commonName": "Yellow star thistle",
+    "commonNames": ["Yellow star thistle"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/YellowStarThistle.html",
-    "scientificName": "Centaurea solstitialis",
+    "scientificNames": ["Centaurea solstitialis"],
     "regulated": "Prohibited"
   },
   {
     "category": "Other",
-    "commonName": "Cylindro (cyanobacteria)",
+    "commonNames": ["Cylindro (cyanobacteria)"],
     "uri": "https://nas.er.usgs.gov/queries/GreatLakes/FactSheet.aspx?Species_ID=2651",
-    "scientificName": "Cylindrospermopsis raciborskii",
+    "scientificNames": ["Cylindrospermopsis raciborskii"],
     "regulated": "Prohibited"
   },
   {
     "category": "Other",
-    "commonName": "Didymo or rock snot",
+    "commonNames": ["Didymo or rock snot"],
     "uri": "https://www.wisconsinrivers.org/aquatic-invasive-species/didymo-ais/",
-    "scientificName": "Didymosphenia geminata",
+    "scientificNames": ["Didymosphenia geminata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Other",
-    "commonName": "Golden alga",
+    "commonNames": ["Golden alga"],
     "uri": "http://www.tpwd.state.tx.us/landwater/water/environconcerns/hab/ga/bio.phtml",
-    "scientificName": "Prymnesium parvum",
+    "scientificNames": ["Prymnesium parvum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Other",
-    "commonName": "Killer algae",
+    "commonNames": ["Killer algae"],
     "uri": "https://www.invasivespeciesinfo.gov/aquatic/plants/caulerpa-mediterranean-clone",
-    "scientificName": "Caulerpa taxifolia",
+    "scientificNames": ["Caulerpa taxifolia"],
     "regulated": "Prohibited"
   },
   {
     "category": "Other",
-    "commonName": "Novel cyanobacterial epiphyte of the order Stigonematales linked with avian vacuolar myelinopathy",
+    "commonNames": ["Novel cyanobacterial epiphyte of the order Stigonematales linked with avian vacuolar myelinopathy"],
     "uri": "https://pubmed.ncbi.nlm.nih.gov/15892059/",
-    "scientificName": "Stigonematales spp.",
+    "scientificNames": ["Stigonematales spp."],
     "regulated": "Prohibited"
   },
   {
     "category": "Other",
-    "commonName": "Starry stonewort (alga)",
+    "commonNames": ["Starry stonewort (alga)"],
     "uri": "https://nas.er.usgs.gov/queries/GreatLakes/FactSheet.aspx?NoCache=10/12/2010+4:29:34+AM&SpeciesID=1688&State=&HUCNumb",
-    "scientificName": "Nitellopsis obtusa",
+    "scientificNames": ["Nitellopsis obtusa"],
     "regulated": "Prohibited"
   },
   {
     "category": "Other",
-    "commonName": "Ulva species, including species previously known as Enteromorpha species",
+    "commonNames": ["Ulva species, including species previously known as Enteromorpha species"],
     "uri": "https://nas.er.usgs.gov/queries/GreatLakes/FactSheet.aspx?SpeciesID=2714",
-    "scientificName": "Ulva (Enteromorpha) species",
+    "scientificNames": ["Ulva (Enteromorpha) species"],
     "regulated": "Prohibited"
   },
   {
     "category": "Other",
-    "commonName": "White-nose syndrome fungal pathogen",
+    "commonNames": ["White-nose syndrome fungal pathogen"],
     "uri": "https://dnr.wi.gov/topic/WildlifeHabitat/bats.html",
-    "scientificName": "Pseudogymnoascus destructans",
+    "scientificNames": ["Pseudogymnoascus destructans"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Alewife",
+    "commonNames": ["Alewife"],
     "uri": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=490",
-    "scientificName": "Alosa pseudoharengus",
+    "scientificNames": ["Alosa pseudoharengus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Arctic char (2)",
+    "commonNames": ["Arctic char (2)"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=935",
-    "scientificName": "Salvelinus alpinus",
+    "scientificNames": ["Salvelinus alpinus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Asian clam",
+    "commonNames": ["Asian clam"],
     "uri": "https://www.seagrant.wisc.edu/our-work/focus-areas/ais/invasive-species/invasive-species-fact-sheets/mollusks/asiatic-clam/",
-    "scientificName": "Corbicula fluminea",
+    "scientificNames": ["Corbicula fluminea"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Asian longhorned beetle",
+    "commonNames": ["Asian longhorned beetle"],
     "uri": "https://dnr.wi.gov/topic/ForestHealth/AsianLonghorned.html",
-    "scientificName": "Anoplophora glabripennis",
+    "scientificNames": ["Anoplophora glabripennis"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Atlantic salmon (2)",
+    "commonNames": ["Atlantic salmon (2)"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=926",
-    "scientificName": "Salmo salar",
+    "scientificNames": ["Salmo salar"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Banded mystery snail",
+    "commonNames": ["Banded mystery snail"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1047",
-    "scientificName": "Viviparus georgianus",
+    "scientificNames": ["Viviparus georgianus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Bighead carp",
+    "commonNames": ["Bighead carp"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=551",
-    "scientificName": "Hypophthalmichthys nobilis",
+    "scientificNames": ["Hypophthalmichthys nobilis"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Bitterling (3)",
+    "commonNames": ["Bitterling (3)"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=643",
-    "scientificName": "Rhodeus spp.",
+    "scientificNames": ["Rhodeus spp."],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Black carp",
+    "commonNames": ["Black carp"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=573",
-    "scientificName": "Mylopharyngodon piceus",
+    "scientificNames": ["Mylopharyngodon piceus"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Bloody shrimp",
+    "commonNames": ["Bloody shrimp"],
     "uri": "https://www.seagrant.wisc.edu/our-work/focus-areas/ais/invasive-species/invasive-species-fact-sheets/zooplankton-crayfish/bloody-red-shrimp/",
-    "scientificName": "Hemimysis anomala",
+    "scientificNames": ["Hemimysis anomala"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Brown trout (2)",
+    "commonNames": ["Brown trout (2)"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=931",
-    "scientificName": "Salmo trutta",
+    "scientificNames": ["Salmo trutta"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Chinese hi-fin banded shark (3)",
+    "commonNames": ["Chinese hi-fin banded shark (3)"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/RegulatedSpecies",
-    "scientificName": "Myxocyprinus asiaticus",
+    "scientificNames": ["Myxocyprinus asiaticus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Chinese mitten crabs",
+    "commonNames": ["Chinese mitten crabs"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=182",
-    "scientificName": "Eriocheir sinensi",
+    "scientificNames": ["Eriocheir sinensi"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Chinese mystery snail",
+    "commonNames": ["Chinese mystery snail"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1045",
-    "scientificName": "Cipangopaludina chinensis",
+    "scientificNames": ["Cipangopaludina chinensis"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Chinook salmon (2)",
+    "commonNames": ["Chinook salmon (2)"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=920",
-    "scientificName": "Oncorhynchus tshawytscha",
+    "scientificNames": ["Oncorhynchus tshawytscha"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Coho salmon (2)",
+    "commonNames": ["Coho salmon (2)"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=908",
-    "scientificName": "Oncorhynchus kisutch",
+    "scientificNames": ["Oncorhynchus kisutch"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Common carp",
+    "commonNames": ["Common carp"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?speciesID=4",
-    "scientificName": "Cyprinus carpio",
+    "scientificNames": ["Cyprinus carpio"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Crayfish - non-native",
+    "commonNames": ["Crayfish - non-native"],
     "uri": "https://widnr.widen.net/view/pdf/qjmtzajsil/AIS_CrayfishOfWisconsinGuide.pdf?t.download=true&u=kkadwx",
-    "scientificName": "Crayfish",
+    "scientificNames": ["Crayfish"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Eastern mosquitofish",
+    "commonNames": ["Eastern mosquitofish"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=849",
-    "scientificName": "Gambusia holbrooki",
+    "scientificNames": ["Gambusia holbrooki"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Emerald ash borer",
+    "commonNames": ["Emerald ash borer"],
     "uri": "https://dnr.wi.gov/topic/ForestHealth/EmeraldAshBorer.html",
-    "scientificName": "Agrilus planipennis",
+    "scientificNames": ["Agrilus planipennis"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "European valve snail",
+    "commonNames": ["European valve snail"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1043",
-    "scientificName": "Valvata piscinalis",
+    "scientificNames": ["Valvata piscinalis"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Faucet snail",
+    "commonNames": ["Faucet snail"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=987",
-    "scientificName": "Bithynia tentaculata",
+    "scientificNames": ["Bithynia tentaculata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Feral domestic swine",
+    "commonNames": ["Feral domestic swine"],
     "uri": "https://dnr.wi.gov/topic/hunt/feralpig.html",
-    "scientificName": "Sus domestica",
+    "scientificNames": ["Sus domestica"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Fishhook water flea",
+    "commonNames": ["Fishhook water flea"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/FishhookWF2012.html",
-    "scientificName": "Cercopagis pengoi",
+    "scientificNames": ["Cercopagis pengoi"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Golden mussel",
+    "commonNames": ["Golden mussel"],
     "uri": "https://www.fws.gov/media/ecological-risk-screening-summary-golden-mussel-limnoperna-fortunei-high-risk",
-    "scientificName": "Limnoperna fortunei",
+    "scientificNames": ["Limnoperna fortunei"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Goldfish *(3)",
+    "commonNames": ["Goldfish *(3)"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=508",
-    "scientificName": "Carassius auratus",
+    "scientificNames": ["Carassius auratus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Grass carp",
+    "commonNames": ["Grass carp"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=514",
-    "scientificName": "Ctenopharyngodon idella",
+    "scientificNames": ["Ctenopharyngodon idella"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Hemlock woolly adelgid",
+    "commonNames": ["Hemlock woolly adelgid"],
     "uri": "https://dnr.wi.gov/topic/ForestHealth/Adelgid.html",
-    "scientificName": "Adelges tsugae",
+    "scientificNames": ["Adelges tsugae"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Ide (3)",
+    "commonNames": ["Ide (3)"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=557",
-    "scientificName": "Leuciscus idus",
+    "scientificNames": ["Leuciscus idus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Japanese trapdoor snail or Japanese mystery snail",
+    "commonNames": ["Japanese trapdoor snail or Japanese mystery snail"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1046",
-    "scientificName": "Cipangopaludina japonica",
+    "scientificNames": ["Cipangopaludina japonica"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Jumping worm",
+    "commonNames": ["Jumping worm"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/jumpingWorm/index.html",
-    "scientificName": "Amynthas or Amynthus species",
+    "scientificNames": ["Amynthas or Amynthus species"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Killer Shrimp",
+    "commonNames": ["Killer Shrimp"],
     "uri": "https://www.invasivespeciesinfo.gov/aquatic/invertebrates/killer-shrimp",
-    "scientificName": "Dikerogammarus villosus",
+    "scientificNames": ["Dikerogammarus villosus"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Koi carp *(3)",
+    "commonNames": ["Koi carp *(3)"],
     "uri": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=3294",
-    "scientificName": "Cyprinus rubrofuscus",
+    "scientificNames": ["Cyprinus rubrofuscus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Malaysian trumpet snail",
+    "commonNames": ["Malaysian trumpet snail"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1037",
-    "scientificName": "Melanoides tuberculata",
+    "scientificNames": ["Melanoides tuberculata"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Monk or Quaker parakeet or parrot",
+    "commonNames": ["Monk or Quaker parakeet or parrot"],
     "uri": "https://widnr.widen.net/view/pdf/puhmdivjku/NH0534.pdf",
-    "scientificName": "Myiopsitta monachus",
+    "scientificNames": ["Myiopsitta monachus"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Mountain Pine Beetle",
+    "commonNames": ["Mountain Pine Beetle"],
     "uri": "https://datcp.wi.gov/Pages/Programs_Services/MtPineBeetle.aspx",
-    "scientificName": "Dendroctonus ponderosae",
+    "scientificNames": ["Dendroctonus ponderosae"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "New Zealand mud snail",
+    "commonNames": ["New Zealand mud snail"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/NewZealandMudsnail.html",
-    "scientificName": "Potamopyrgus antipodarum",
+    "scientificNames": ["Potamopyrgus antipodarum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Nutria",
+    "commonNames": ["Nutria"],
     "uri": "https://www.aphis.usda.gov/operational-wildlife-activities/nutria",
-    "scientificName": "Myocastor coypus",
+    "scientificNames": ["Myocastor coypus"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Pink salmon (2)",
+    "commonNames": ["Pink salmon (2)"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=906",
-    "scientificName": "Oncorhynchus gorbuscha",
+    "scientificNames": ["Oncorhynchus gorbuscha"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Quagga mussel",
+    "commonNames": ["Quagga mussel"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Quagga2012.html",
-    "scientificName": "Dreissena rostriformis",
+    "scientificNames": ["Dreissena rostriformis"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Rainbow smelt",
+    "commonNames": ["Rainbow smelt"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=796",
-    "scientificName": "Osmerus mordax",
+    "scientificNames": ["Osmerus mordax"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Rainbow trout (2)",
+    "commonNames": ["Rainbow trout (2)"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=910",
-    "scientificName": "Oncorhynchus mykiss",
+    "scientificNames": ["Oncorhynchus mykiss"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Red shiner",
+    "commonNames": ["Red shiner"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=518",
-    "scientificName": "Cyprinella lutrensis",
+    "scientificNames": ["Cyprinella lutrensis"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Redear sunfish (2)",
+    "commonNames": ["Redear sunfish (2)"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=390",
-    "scientificName": "Lepomis microlophus",
+    "scientificNames": ["Lepomis microlophus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Round goby",
+    "commonNames": ["Round goby"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=713",
-    "scientificName": "Neogobius melanostomus",
+    "scientificNames": ["Neogobius melanostomus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Rudd",
+    "commonNames": ["Rudd"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=648",
-    "scientificName": "Scardinius erythrophthalmus",
+    "scientificNames": ["Scardinius erythrophthalmus"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Ruffe",
+    "commonNames": ["Ruffe"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=7",
-    "scientificName": "Gymnocephalus cernuus",
+    "scientificNames": ["Gymnocephalus cernuus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Russian boar & other wild swine",
+    "commonNames": ["Russian boar & other wild swine"],
     "uri": "https://dnr.wi.gov/topic/hunt/feralpig.html",
-    "scientificName": "Sus scrofa",
+    "scientificNames": ["Sus scrofa"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Rusty crayfish (non-native established)",
+    "commonNames": ["Rusty crayfish (non-native established)"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/RustyCrayfish.html",
-    "scientificName": "Orconectes rusticus",
+    "scientificNames": ["Orconectes rusticus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Sea lamprey",
+    "commonNames": ["Sea lamprey"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=836",
-    "scientificName": "Petromyzon marinus",
+    "scientificNames": ["Petromyzon marinus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Silver carp",
+    "commonNames": ["Silver carp"],
     "uri": "http://nas.er.usgs.gov/queries/speciesmap.aspx?SpeciesID=549",
-    "scientificName": "Hypophthalmichthys molitrix",
+    "scientificNames": ["Hypophthalmichthys molitrix"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Snakehead family",
+    "commonNames": ["Snakehead family"],
     "uri": "http://nas.er.usgs.gov/taxgroup/fish/docs/SnakeheadRiskAssessment.pdf",
-    "scientificName": "Channidae",
+    "scientificNames": ["Channidae"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Spiny water flea",
+    "commonNames": ["Spiny water flea"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/SpinyWaterFlea.html",
-    "scientificName": "Bythotrephes cederstroemi",
+    "scientificNames": ["Bythotrephes cederstroemi"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Spongy moth, North American or European subspecies",
+    "commonNames": ["Spongy moth, North American or European subspecies"],
     "uri": "https://spongymoth.wi.gov/",
-    "scientificName": "Lymantria dispar dispar",
+    "scientificNames": ["Lymantria dispar dispar"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Spongy moth, subspecies with flight-capable females",
+    "commonNames": ["Spongy moth, subspecies with flight-capable females"],
     "uri": "https://spongymoth.wi.gov/",
-    "scientificName": "Lymantria dispar asiatica or L. dispar japonica",
+    "scientificNames": ["Lymantria dispar asiatica or L. dispar japonica"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Sterlet (3)",
+    "commonNames": ["Sterlet (3)"],
     "uri": "http://www.fao.org/fishery/species/2070/en",
-    "scientificName": "Acipenser ruthenus",
+    "scientificNames": ["Acipenser ruthenus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Sudden oak death pathogen",
+    "commonNames": ["Sudden oak death pathogen"],
     "uri": "https://hort.extension.wisc.edu/articles/sudden-oak-death/",
-    "scientificName": "Phytophthora ramorum",
+    "scientificNames": ["Phytophthora ramorum"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Tench",
+    "commonNames": ["Tench"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=652",
-    "scientificName": "Tinca tinca",
+    "scientificNames": ["Tinca tinca"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Thousand cankers disease of walnut",
+    "commonNames": ["Thousand cankers disease of walnut"],
     "uri": "https://hort.extension.wisc.edu/articles/thousand-cankers-disease/",
-    "scientificName": "Geosmithia morbida",
+    "scientificNames": ["Geosmithia morbida"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Three-spine stickleback",
+    "commonNames": ["Three-spine stickleback"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=702",
-    "scientificName": "Gasterosteus aculeatus",
+    "scientificNames": ["Gasterosteus aculeatus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Tiger trout (2)",
+    "commonNames": ["Tiger trout (2)"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=933",
-    "scientificName": "Salvelinus fontinalis x Salmo trutta",
+    "scientificNames": ["Salvelinus fontinalis x Salmo trutta"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Tilapia",
+    "commonNames": ["Tilapia"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=433",
-    "scientificName": "Tilapia spp.",
+    "scientificNames": ["Tilapia spp."],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Tubenose Goby",
+    "commonNames": ["Tubenose Goby"],
     "uri": "https://www.seagrant.wisc.edu/our-work/focus-areas/ais/invasive-species/invasive-species-fact-sheets/fish/tubenose-goby/",
-    "scientificName": "Proterorhinus marmoratus",
+    "scientificNames": ["Proterorhinus marmoratus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Walnut twig beetle",
+    "commonNames": ["Walnut twig beetle"],
     "uri": "https://datcp.wi.gov/Pages/Programs_Services/ThousandCankersDisease.aspx",
-    "scientificName": "Pityophthorus juglandis",
+    "scientificNames": ["Pityophthorus juglandis"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Water flea",
+    "commonNames": ["Water flea"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=164",
-    "scientificName": "Daphnia lumholtzi",
+    "scientificNames": ["Daphnia lumholtzi"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Weather loach (3)",
+    "commonNames": ["Weather loach (3)"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=498",
-    "scientificName": "Misgurnus anguillicaudatus",
+    "scientificNames": ["Misgurnus anguillicaudatus"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Western mosquitofish",
+    "commonNames": ["Western mosquitofish"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=846",
-    "scientificName": "Gambusia affinis",
+    "scientificNames": ["Gambusia affinis"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "White perch",
+    "commonNames": ["White perch"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=777",
-    "scientificName": "Morone americana",
+    "scientificNames": ["Morone americana"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonName": "Zander",
+    "commonNames": ["Zander"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=830",
-    "scientificName": "Sander lucioperca",
+    "scientificNames": ["Sander lucioperca"],
     "regulated": "Prohibited"
   },
   {
     "category": "Animal",
-    "commonName": "Zebra mussel",
+    "commonNames": ["Zebra mussel"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/Zebra.html",
-    "scientificName": "Dreissena polymorpha",
+    "scientificNames": ["Dreissena polymorpha"],
     "regulated": "Restricted"
   }
 ]
