@@ -85,7 +85,7 @@
   },
   {
     "category": "Plant",
-    "commonNames": ["Black (European) alder"],
+    "commonNames": ["Black alder", "European alder"],
     "uri": "https://dnr.wi.gov/topic/Invasives/fact/BlackAlder.html",
     "scientificNames": ["Alnus glutinosa"],
     "regulated": "Restricted"
