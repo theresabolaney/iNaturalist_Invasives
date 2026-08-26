@@ -1079,7 +1079,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Arctic char (2)"],
+    "commonNames": ["Arctic char"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=935",
     "scientificNames": ["Salvelinus alpinus"],
     "regulated": "Restricted"
@@ -1100,7 +1100,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Atlantic salmon (2)"],
+    "commonNames": ["Atlantic salmon"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=926",
     "scientificNames": ["Salmo salar"],
     "regulated": "Restricted"
@@ -1121,7 +1121,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Bitterling (3)"],
+    "commonNames": ["Bitterling"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=643",
     "scientificNames": ["Rhodeus spp."],
     "regulated": "Restricted"
@@ -1142,14 +1142,14 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Brown trout (2)"],
+    "commonNames": ["Brown trout"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=931",
     "scientificNames": ["Salmo trutta"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonNames": ["Chinese hi-fin banded shark (3)"],
+    "commonNames": ["Chinese hi-fin banded shark"],
     "uri": "https://dnr.wisconsin.gov/topic/Invasives/RegulatedSpecies",
     "scientificNames": ["Myxocyprinus asiaticus"],
     "regulated": "Restricted"
@@ -1170,14 +1170,14 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Chinook salmon (2)"],
+    "commonNames": ["Chinook salmon"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=920",
     "scientificNames": ["Oncorhynchus tshawytscha"],
     "regulated": "Restricted"
   },
   {
     "category": "Animal",
-    "commonNames": ["Coho salmon (2)"],
+    "commonNames": ["Coho salmon"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=908",
     "scientificNames": ["Oncorhynchus kisutch"],
     "regulated": "Restricted"
@@ -1247,7 +1247,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Goldfish *(3)"],
+    "commonNames": ["Goldfish"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=508",
     "scientificNames": ["Carassius auratus"],
     "regulated": "Restricted"
@@ -1268,7 +1268,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Ide (3)"],
+    "commonNames": ["Ide"],
     "uri": "http://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=557",
     "scientificNames": ["Leuciscus idus"],
     "regulated": "Restricted"
@@ -1296,7 +1296,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Koi carp *(3)"],
+    "commonNames": ["Koi carp"],
     "uri": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=3294",
     "scientificNames": ["Cyprinus rubrofuscus"],
     "regulated": "Restricted"
@@ -1338,7 +1338,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Pink salmon (2)"],
+    "commonNames": ["Pink salmon"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=906",
     "scientificNames": ["Oncorhynchus gorbuscha"],
     "regulated": "Restricted"
@@ -1359,7 +1359,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Rainbow trout (2)"],
+    "commonNames": ["Rainbow trout"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=910",
     "scientificNames": ["Oncorhynchus mykiss"],
     "regulated": "Restricted"
@@ -1373,7 +1373,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Redear sunfish (2)"],
+    "commonNames": ["Redear sunfish"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=390",
     "scientificNames": ["Lepomis microlophus"],
     "regulated": "Restricted"
@@ -1457,7 +1457,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Sterlet (3)"],
+    "commonNames": ["Sterlet"],
     "uri": "http://www.fao.org/fishery/species/2070/en",
     "scientificNames": ["Acipenser ruthenus"],
     "regulated": "Restricted"
@@ -1492,7 +1492,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Tiger trout (2)"],
+    "commonNames": ["Tiger trout"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=933",
     "scientificNames": ["Salvelinus fontinalis x Salmo trutta"],
     "regulated": "Restricted"
@@ -1527,7 +1527,7 @@
   },
   {
     "category": "Animal",
-    "commonNames": ["Weather loach (3)"],
+    "commonNames": ["Weather loach"],
     "uri": "http://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=498",
     "scientificNames": ["Misgurnus anguillicaudatus"],
     "regulated": "Restricted"
