@@ -1,4 +1,5 @@
 from flask import Flask
+from flask_cors import CORS
 import json
 import requests
 
@@ -11,6 +12,7 @@ import requests
 # https://flask.palletsprojects.com/en/stable/quickstart/
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route("/")
 def hello_world():
