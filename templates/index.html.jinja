@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+ <head>
+  <title>iNaturalist API project UI</title>
+  <meta charset="utf-8">
+  <!-- Setting the icon prevents the browser from logging a console error about a missing favicon -->
+  <link rel="icon" href="data:,">
+  <!-- Defer runs the script after the html is parsed, so we don't have to wait for the DOMContentLoaded event -->
+  <script defer src="{{ url_for('static', filename='ui.js') }}"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='ui.css') }}" />
+ </head>
+ <body>
+  <h1>iNaturalist API project</h1>
+  <form name="taxonToStatus" method="get" action="{{ taxon_to_status }}">
+   <h2>DNR regulation status of iNaturalist taxa</h2>
+   <label for="taxonId">iNaturalist taxon ID:</label>
+   <input type="text" id="taxonId" pattern="\d+" />
+   <button type="submit">Search</button>
+   <h3>Results</h3>
+   <output id="regulationStatus"></output>
+  </form>
+ </body>
+</html>
