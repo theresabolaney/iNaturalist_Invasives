@@ -18,6 +18,7 @@ Run UI:
 ```
 flask --app ui run --port 5001
 ```
+Or, after the initial setup, `run.sh` activates the venv and runs both flask apps.
 
 ## Routes
 ### `GET /taxa/{id}`
