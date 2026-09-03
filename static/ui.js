@@ -9,8 +9,8 @@ async function submitTaxonToStatus(event) {
   const url = `${form.action}/${taxonId.value}`;
 
   output.textContent =
-    `Form submitted: taxonToStatus; taxonId=${taxonId.value}\n` +
-    `GET ${url}\n`;
+    `Form submitted: taxonToStatus; taxonId=${taxonId.value}\n\n` +
+    `GET ${url}\n\n`;
 
   try {
     const response = await fetch(url);
@@ -18,9 +18,8 @@ async function submitTaxonToStatus(event) {
       throw new Error(`Response status: ${response.status}`);
     }
 
-    const result = await response.text();
-    console.log(result);
-    output.textContent += result;
+    const result = await response.json();
+    output.textContent += JSON.stringify(result, null, 2);
   } catch (error) {
     console.error(error.message);
   }
